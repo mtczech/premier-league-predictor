@@ -1,0 +1,279 @@
+Home Team,Away Team,Home XG,Away XG,Home Goals,Away Goals
+Monaco,Lyon,0.6,0.8,0,3
+Marseille,Reims,0.9,1.2,0,2
+Montpellier,Rennes,2.9,1.2,0,1
+Dijon,Saint-Étienne,2.1,1.0,1,2
+Angers,Bordeaux,1.6,1.0,3,1
+Brest,Toulouse,2.2,1.5,1,1
+Nice,Amiens,1.8,0.8,2,1
+Lille,Nantes,1.3,0.6,2,1
+Strasbourg,Metz,1.7,0.3,1,1
+Paris S-G,Nîmes,3.5,0.3,3,0
+Lyon,Angers,1.1,0.4,6,0
+Nantes,Marseille,0.5,1.2,0,0
+Bordeaux,Montpellier,1.2,0.8,1,1
+Nîmes,Nice,1.5,1.9,1,2
+Toulouse,Dijon,1.5,1.3,1,0
+Metz,Monaco,2.6,0.8,3,0
+Amiens,Lille,1.0,0.3,1,0
+Saint-Étienne,Brest,2.3,0.5,1,1
+Reims,Strasbourg,0.5,0.4,0,0
+Rennes,Paris S-G,1.2,1.0,2,1
+Amiens,Nantes,0.4,2.4,1,2
+Dijon,Bordeaux,0.4,0.6,0,2
+Brest,Reims,0.5,1.0,1,0
+Angers,Metz,1.9,0.2,3,0
+Monaco,Nîmes,2.0,2.5,2,2
+Strasbourg,Rennes,1.9,0.6,0,2
+Paris S-G,Toulouse,4.1,0.4,4,0
+Montpellier,Lyon,2.1,0.9,1,0
+Lille,Saint-Étienne,2.4,0.8,3,0
+Nice,Marseille,1.7,1.7,1,2
+Metz,Paris S-G,0.4,1.6,0,2
+Lyon,Bordeaux,0.7,1.1,1,1
+Toulouse,Amiens,1.3,0.4,2,0
+Angers,Dijon,1.4,0.7,2,0
+Nîmes,Brest,2.4,0.7,3,0
+Nantes,Montpellier,0.9,0.5,1,0
+Rennes,Nice,0.8,1.8,1,2
+Reims,Lille,2.1,1.6,2,0
+Strasbourg,Monaco,1.5,2.9,2,2
+Marseille,Saint-Étienne,0.7,0.8,1,0
+Lille,Angers,1.4,0.7,2,1
+Amiens,Lyon,0.5,2.0,2,2
+Paris S-G,Strasbourg,0.8,0.5,1,0
+Brest,Rennes,0.5,0.4,0,0
+Dijon,Nîmes,1.3,0.4,0,0
+Montpellier,Nice,1.8,1.0,2,1
+Bordeaux,Metz,1.4,1.2,2,0
+Nantes,Reims,0.4,0.7,1,0
+Saint-Étienne,Toulouse,1.1,1.9,2,2
+Monaco,Marseille,2.5,1.6,3,4
+Strasbourg,Nantes,2.0,0.6,2,1
+Marseille,Montpellier,1.2,0.1,1,1
+Nîmes,Toulouse,1.4,0.7,1,0
+Nice,Dijon,1.1,1.2,2,1
+Reims,Monaco,1.3,0.6,0,0
+Bordeaux,Brest,1.7,1.3,2,2
+Metz,Amiens,1.3,1.3,1,2
+Rennes,Lille,0.9,1.1,1,1
+Angers,Saint-Étienne,2.0,0.8,4,1
+Lyon,Paris S-G,0.5,1.5,0,1
+Dijon,Marseille,1.4,0.9,0,0
+Monaco,Nice,2.3,0.7,3,1
+Toulouse,Angers,0.3,1.6,0,2
+Brest,Lyon,0.7,1.2,2,2
+Nantes,Rennes,1.4,1.1,1,0
+Amiens,Bordeaux,1.5,0.7,1,3
+Saint-Étienne,Metz,1.3,0.8,0,1
+Montpellier,Nîmes,0.6,0.8,1,0
+Lille,Strasbourg,2.8,0.3,2,0
+Paris S-G,Reims,0.6,1.0,0,2
+Lyon,Nantes,1.1,0.6,0,1
+Bordeaux,Paris S-G,0.1,2.8,0,1
+Reims,Dijon,1.2,1.8,1,2
+Metz,Toulouse,1.4,1.4,2,2
+Nice,Lille,1.2,1.4,1,1
+Monaco,Brest,3.6,0.5,4,1
+Angers,Amiens,1.4,1.2,1,1
+Strasbourg,Montpellier,0.4,1.4,1,0
+Nîmes,Saint-Étienne,1.8,0.7,0,1
+Marseille,Rennes,0.8,0.9,1,1
+Amiens,Marseille,2.9,0.5,3,1
+Paris S-G,Angers,3.4,0.6,4,0
+Montpellier,Monaco,3.1,1.3,3,1
+Dijon,Strasbourg,1.1,0.8,1,0
+Nantes,Nice,1.3,0.3,1,0
+Brest,Metz,0.7,0.5,2,0
+Toulouse,Bordeaux,1.1,0.8,1,3
+Lille,Nîmes,2.6,1.8,2,2
+Rennes,Reims,1.1,1.6,0,1
+Saint-Étienne,Lyon,0.9,0.6,1,0
+Nice,Paris S-G,0.8,3.5,1,4
+Lyon,Dijon,2.1,0.4,0,0
+Metz,Nantes,0.8,0.6,1,0
+Toulouse,Lille,2.5,0.8,2,1
+Reims,Montpellier,0.9,0.9,1,0
+Nîmes,Amiens,0.5,1.2,1,1
+Angers,Brest,1.7,0.3,0,1
+Bordeaux,Saint-Étienne,1.0,0.9,0,1
+Monaco,Rennes,1.4,1.5,3,2
+Marseille,Strasbourg,1.6,0.5,2,0
+Nantes,Monaco,1.7,0.9,0,1
+Lille,Bordeaux,1.8,0.3,3,0
+Lyon,Metz,1.9,0.8,2,0
+Strasbourg,Nice,2.1,0.8,1,0
+Reims,Nîmes,0.6,0.7,0,0
+Brest,Dijon,1.9,1.2,2,0
+Montpellier,Angers,1.2,1.0,0,0
+Rennes,Toulouse,2.1,1.2,3,2
+Saint-Étienne,Amiens,0.8,2.2,2,2
+Paris S-G,Marseille,3.0,0.6,4,0
+Dijon,Paris S-G,1.0,3.2,2,1
+Marseille,Lille,0.7,0.4,2,1
+Toulouse,Lyon,1.3,1.8,2,3
+Amiens,Brest,1.4,0.9,1,0
+Metz,Montpellier,1.9,1.0,2,2
+Angers,Strasbourg,1.2,1.2,1,0
+Bordeaux,Nantes,1.0,0.7,2,0
+Nice,Reims,1.0,0.8,2,0
+Saint-Étienne,Monaco,1.7,1.0,1,0
+Nice,Bordeaux,1.5,1.7,1,1
+Brest,Paris S-G,1.1,2.4,1,2
+Monaco,Dijon,2.0,1.2,1,0
+Reims,Angers,0.5,1.0,0,0
+Lille,Metz,1.4,0.1,0,0
+Strasbourg,Nîmes,3.5,0.5,4,1
+Rennes,Amiens,3.4,0.8,3,1
+Nantes,Saint-Étienne,0.9,0.9,2,3
+Montpellier,Toulouse,1.0,0.3,3,0
+Marseille,Lyon,1.2,1.1,2,1
+Paris S-G,Lille,2.6,1.0,2,0
+Lyon,Nice,1.3,1.7,2,1
+Metz,Reims,1.1,1.8,1,1
+Angers,Nîmes,1.1,0.6,1,0
+Amiens,Strasbourg,0.3,2.0,0,4
+Brest,Nantes,1.0,1.5,1,1
+Dijon,Rennes,1.3,0.9,2,1
+Bordeaux,Monaco,1.6,1.7,2,1
+Saint-Étienne,Montpellier,0.5,1.0,0,0
+Toulouse,Marseille,0.9,1.6,0,2
+Marseille,Brest,5.0,0.7,2,1
+Strasbourg,Lyon,0.5,0.7,1,2
+Nice,Angers,1.2,0.6,3,1
+Montpellier,Amiens,1.5,1.0,4,2
+Lille,Dijon,1.7,0.8,1,0
+Nîmes,Metz,0.7,0.8,1,1
+Reims,Bordeaux,1.4,0.3,1,1
+Nantes,Toulouse,2.8,1.1,2,1
+Rennes,Saint-Étienne,1.4,0.5,2,1
+Brest,Strasbourg,2.0,0.8,5,0
+Angers,Marseille,0.7,1.8,0,2
+Bordeaux,Nîmes,2.1,0.3,6,0
+Lyon,Lille,0.8,0.9,0,1
+Saint-Étienne,Nice,2.7,1.2,4,1
+Dijon,Montpellier,1.5,1.1,2,2
+Metz,Rennes,0.9,1.1,0,1
+Toulouse,Monaco,1.8,4.3,1,2
+Paris S-G,Nantes,1.9,0.6,2,0
+Lille,Brest,2.6,0.3,1,0
+Nîmes,Lyon,0.2,3.2,0,4
+Montpellier,Paris S-G,0.4,1.2,1,3
+Strasbourg,Toulouse,2.3,1.7,4,2
+Monaco,Amiens,2.4,0.4,3,0
+Nice,Metz,1.6,1.7,4,1
+Rennes,Angers,1.2,0.8,2,1
+Reims,Saint-Étienne,1.2,0.6,3,1
+Nantes,Dijon,1.2,0.5,1,0
+Marseille,Bordeaux,1.9,0.1,3,1
+Lille,Montpellier,2.0,1.3,2,1
+Metz,Marseille,1.1,1.8,1,1
+Angers,Monaco,1.1,0.4,0,0
+Brest,Nice,2.0,1.2,0,0
+Toulouse,Reims,0.8,1.3,0,1
+Nîmes,Nantes,0.8,1.4,0,1
+Amiens,Dijon,0.4,1.0,1,1
+Bordeaux,Strasbourg,1.4,0.6,0,1
+Lyon,Rennes,0.6,2.1,0,1
+Saint-Étienne,Paris S-G,1.1,4.3,0,4
+Montpellier,Brest,2.1,0.9,4,0
+Strasbourg,Saint-Étienne,0.6,1.6,2,1
+Monaco,Lille,3.4,0.8,5,1
+Dijon,Metz,1.2,1.1,2,2
+Nantes,Angers,0.4,1.3,1,2
+Paris S-G,Amiens,4.6,0.6,4,1
+Reims,Lyon,1.5,1.5,1,1
+Rennes,Bordeaux,0.9,0.7,1,0
+Marseille,Nîmes,2.0,1.0,3,1
+Nice,Toulouse,1.6,0.5,3,0
+Rennes,Marseille,0.6,0.7,0,1
+Bordeaux,Lyon,0.8,2.6,1,2
+Angers,Nice,1.1,1.2,1,1
+Nîmes,Reims,1.7,0.3,2,0
+Amiens,Montpellier,0.9,0.7,1,2
+Metz,Strasbourg,0.9,1.1,1,0
+Toulouse,Brest,0.9,1.8,2,5
+Dijon,Lille,1.2,0.6,1,0
+Paris S-G,Monaco,2.5,2.3,3,3
+Nîmes,Rennes,0.3,0.6,0,1
+Amiens,Reims,1.0,0.3,1,1
+Monaco,Paris S-G,1.1,3.6,1,4
+Nice,Rennes,2.1,2.4,1,1
+Marseille,Angers,0.4,0.2,0,0
+Montpellier,Dijon,1.7,0.4,2,1
+Monaco,Strasbourg,1.0,1.1,1,3
+Reims,Metz,0.8,1.1,0,1
+Saint-Étienne,Nîmes,2.0,0.9,2,1
+Brest,Amiens,0.8,1.1,2,1
+Lyon,Toulouse,0.8,0.4,3,0
+Nantes,Bordeaux,0.2,0.7,0,1
+Lille,Paris S-G,0.5,2.0,0,2
+Rennes,Nantes,2.3,0.9,3,2
+Paris S-G,Montpellier,2.9,0.2,5,0
+Angers,Reims,1.3,1.4,1,4
+Strasbourg,Lille,1.3,1.5,1,2
+Nîmes,Monaco,1.9,0.9,3,1
+Amiens,Toulouse,0.9,1.0,0,0
+Dijon,Brest,1.5,1.4,3,0
+Nice,Lyon,1.5,1.7,2,1
+Metz,Saint-Étienne,0.9,2.4,3,1
+Bordeaux,Marseille,1.3,0.6,0,0
+Monaco,Angers,0.3,1.2,1,0
+Lille,Rennes,0.8,0.5,1,0
+Nantes,Paris S-G,2.7,3.6,1,2
+Brest,Bordeaux,2.1,1.1,1,1
+Lyon,Amiens,0.5,0.3,0,0
+Montpellier,Metz,0.5,1.7,1,1
+Reims,Nice,1.6,0.8,1,1
+Nîmes,Dijon,1.4,0.6,2,0
+Toulouse,Strasbourg,0.8,1.4,0,1
+Saint-Étienne,Marseille,0.6,0.5,0,2
+Angers,Lille,0.6,1.6,0,2
+Marseille,Toulouse,0.8,1.7,1,0
+Nice,Nîmes,0.7,1.3,1,3
+Metz,Bordeaux,0.7,2.3,1,2
+Dijon,Nantes,1.2,0.6,3,3
+Amiens,Monaco,0.4,1.3,1,2
+Rennes,Brest,1.0,0.5,0,0
+Montpellier,Saint-Étienne,0.7,1.5,1,0
+Strasbourg,Reims,2.8,0.3,3,0
+Paris S-G,Lyon,1.7,1.0,4,2
+Monaco,Montpellier,1.9,1.0,1,0
+Amiens,Paris S-G,1.3,3.2,4,4
+Bordeaux,Dijon,1.4,0.9,2,2
+Toulouse,Nice,2.3,1.4,0,2
+Nantes,Metz,1.4,0.4,0,0
+Nîmes,Angers,1.2,0.5,1,0
+Lyon,Strasbourg,1.0,1.4,1,1
+Brest,Saint-Étienne,2.0,1.7,3,2
+Reims,Rennes,1.3,0.2,1,0
+Lille,Marseille,1.3,1.6,1,2
+Nice,Brest,1.8,0.8,2,2
+Metz,Lyon,0.3,1.9,0,2
+Marseille,Nantes,0.9,0.7,1,3
+Lille,Toulouse,2.3,0.4,3,0
+Dijon,Monaco,1.9,2.1,1,1
+Strasbourg,Amiens,0.8,0.1,0,0
+Angers,Montpellier,1.1,0.8,1,0
+Saint-Étienne,Reims,0.6,1.2,1,1
+Rennes,Nîmes,2.5,0.4,2,1
+Paris S-G,Bordeaux,5.1,1.5,4,3
+Nîmes,Marseille,1.8,1.9,2,3
+Paris S-G,Dijon,3.6,0.4,4,0
+Brest,Angers,1.2,0.3,0,1
+Monaco,Reims,2.1,1.2,1,1
+Montpellier,Strasbourg,3.5,0.9,3,0
+Amiens,Metz,1.3,0.8,0,1
+Toulouse,Rennes,0.9,1.2,0,2
+Nantes,Lille,0.4,2.2,0,1
+Bordeaux,Nice,1.8,0.5,1,1
+Lyon,Saint-Étienne,2.9,0.4,2,0
+Marseille,Amiens,1.1,2.1,2,2
+Nice,Monaco,1.7,1.4,2,1
+Angers,Nantes,0.8,1.4,2,0
+Dijon,Toulouse,1.0,1.0,2,1
+Metz,Nîmes,1.2,1.3,2,1
+Reims,Brest,1.7,1.3,1,0
+Saint-Étienne,Bordeaux,0.9,0.8,1,1
+Rennes,Montpellier,3.1,1.0,5,0
+Lille,Lyon,1.1,1.3,1,0

@@ -1,0 +1,10 @@
+Hierarchy: <tr "data-row"=(row #)> has all the elements in it, (tr stands for table row) is subclass of:
+<tbody> (table body), is subclass of
+<table>, is subclass of 
+<div class="table_container tabbed current is_setup", id="div_matchlogs_for">, is subclass of 
+<div id="switcher_matchlogs", class="switcher_content">, is subclass of 
+<div id="all_matchlogs", class="table_wrapper tabbed">, is subclass of 
+<div id="content" role="main">, is subclass of
+<div id="wrap">, is subclass of
+<body class="fb">, is subclass of 
+<html>

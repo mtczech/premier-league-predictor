@@ -1,0 +1,381 @@
+Home Team,Away Team,Home XG,Away XG,Home Goals,Away Goals
+Inter,Genoa,1.6,1.1,4,0
+Hellas Verona,Sassuolo,2.4,1.6,2,3
+Torino,Atalanta,1.3,0.7,1,2
+Empoli,Lazio,1.2,1.5,1,3
+Bologna,Salernitana,1.6,1.5,3,2
+Udinese,Juventus,1.6,0.8,2,2
+Napoli,Venezia,2.2,0.6,2,0
+Roma,Fiorentina,2.7,1.3,3,1
+Cagliari,Spezia,2.8,0.8,2,2
+Sampdoria,Milan,1.1,0.9,0,1
+Udinese,Venezia,2.2,1.2,3,0
+Hellas Verona,Inter,1.0,1.5,1,3
+Atalanta,Bologna,0.9,0.3,0,0
+Lazio,Spezia,3.0,1.0,6,1
+Fiorentina,Torino,0.8,0.4,2,1
+Juventus,Empoli,1.2,0.7,0,1
+Sassuolo,Sampdoria,1.6,0.5,0,0
+Genoa,Napoli,0.4,1.1,1,2
+Milan,Cagliari,2.7,0.6,4,1
+Salernitana,Roma,0.3,2.1,0,4
+Empoli,Venezia,1.9,1.7,1,2
+Napoli,Juventus,2.1,1.2,2,1
+Atalanta,Fiorentina,2.2,1.8,1,2
+Sampdoria,Inter,1.1,1.1,2,2
+Cagliari,Genoa,1.6,1.2,2,3
+Torino,Salernitana,2.4,0.3,4,0
+Spezia,Udinese,1.0,0.9,0,1
+Milan,Lazio,2.9,0.3,2,0
+Roma,Sassuolo,2.1,2.0,2,1
+Bologna,Hellas Verona,1.1,0.3,1,0
+Sassuolo,Torino,0.7,2.0,0,1
+Genoa,Fiorentina,1.1,0.9,1,2
+Inter,Bologna,2.8,0.5,6,1
+Salernitana,Atalanta,0.7,1.6,0,1
+Empoli,Sampdoria,1.4,1.0,0,3
+Venezia,Spezia,0.9,0.4,1,2
+Lazio,Cagliari,2.0,1.5,2,2
+Hellas Verona,Roma,0.9,0.7,3,2
+Juventus,Milan,1.3,0.8,1,1
+Udinese,Napoli,0.3,2.9,0,4
+Bologna,Genoa,2.3,1.5,2,2
+Fiorentina,Inter,1.6,2.2,1,3
+Atalanta,Sassuolo,1.9,0.9,2,1
+Spezia,Juventus,1.0,2.3,2,3
+Salernitana,Hellas Verona,2.7,1.4,2,2
+Cagliari,Empoli,1.0,0.9,0,2
+Milan,Venezia,1.6,0.8,2,0
+Torino,Lazio,0.8,0.9,1,1
+Sampdoria,Napoli,0.7,1.5,0,4
+Roma,Udinese,1.9,0.6,1,0
+Spezia,Milan,1.1,1.3,1,2
+Inter,Atalanta,3.9,1.9,2,2
+Genoa,Hellas Verona,1.7,2.1,3,3
+Juventus,Sampdoria,2.7,0.4,3,2
+Sassuolo,Salernitana,1.4,1.1,1,0
+Udinese,Fiorentina,0.8,1.1,0,1
+Empoli,Bologna,1.7,2.9,4,2
+Lazio,Roma,1.8,2.1,3,2
+Napoli,Cagliari,1.7,0.1,2,0
+Venezia,Torino,1.5,1.1,1,1
+Cagliari,Venezia,0.5,0.7,1,1
+Salernitana,Genoa,0.5,1.5,1,0
+Torino,Juventus,0.9,1.0,0,1
+Sassuolo,Inter,1.4,2.2,1,2
+Bologna,Lazio,0.6,0.6,3,0
+Sampdoria,Udinese,1.5,2.3,3,3
+Hellas Verona,Spezia,0.7,2.0,4,0
+Fiorentina,Napoli,0.4,1.7,1,2
+Roma,Empoli,1.3,0.7,2,0
+Atalanta,Milan,2.1,2.7,2,3
+Spezia,Salernitana,1.5,1.7,2,1
+Lazio,Inter,2.5,1.4,3,1
+Milan,Hellas Verona,1.7,1.6,3,2
+Cagliari,Sampdoria,1.2,1.2,3,1
+Genoa,Sassuolo,1.3,2.3,2,2
+Empoli,Atalanta,0.6,3.9,1,4
+Udinese,Bologna,0.8,1.4,1,1
+Napoli,Torino,1.4,1.0,1,0
+Juventus,Roma,1.2,1.6,1,0
+Venezia,Fiorentina,1.1,0.4,1,0
+Torino,Genoa,2.2,2.7,3,2
+Sampdoria,Spezia,0.6,1.0,2,1
+Salernitana,Empoli,1.2,2.4,2,4
+Sassuolo,Venezia,1.5,0.6,3,1
+Bologna,Milan,0.9,1.0,2,4
+Atalanta,Udinese,0.4,0.6,1,1
+Fiorentina,Cagliari,2.9,0.1,3,0
+Hellas Verona,Lazio,2.8,0.8,4,1
+Roma,Napoli,1.5,0.7,0,0
+Inter,Juventus,0.8,1.7,1,1
+Venezia,Salernitana,0.7,1.3,1,2
+Spezia,Genoa,2.2,1.1,1,1
+Milan,Torino,0.9,0.6,1,0
+Juventus,Sassuolo,1.2,1.1,1,2
+Sampdoria,Atalanta,1.3,1.3,1,3
+Udinese,Hellas Verona,1.1,0.9,1,1
+Lazio,Fiorentina,0.8,0.5,1,0
+Empoli,Inter,0.5,2.1,0,2
+Cagliari,Roma,1.1,2.1,1,2
+Napoli,Bologna,2.7,0.3,3,0
+Atalanta,Lazio,0.8,1.4,2,2
+Hellas Verona,Juventus,1.5,1.0,2,1
+Torino,Sampdoria,2.4,0.2,3,0
+Inter,Udinese,2.1,0.4,2,0
+Sassuolo,Empoli,1.2,1.6,1,2
+Fiorentina,Spezia,2.8,0.1,3,0
+Genoa,Venezia,0.8,0.6,0,0
+Salernitana,Napoli,0.5,1.8,0,1
+Roma,Milan,1.3,1.8,1,2
+Bologna,Cagliari,1.2,0.6,2,0
+Empoli,Genoa,0.7,1.6,2,2
+Spezia,Torino,0.3,0.4,1,0
+Juventus,Fiorentina,0.6,0.4,1,0
+Cagliari,Atalanta,0.6,2.9,1,2
+Venezia,Roma,2.9,3.8,3,2
+Sampdoria,Bologna,1.1,1.6,1,2
+Udinese,Sassuolo,1.5,0.9,3,2
+Lazio,Salernitana,1.6,0.3,3,0
+Napoli,Hellas Verona,0.9,0.9,1,1
+Milan,Inter,1.0,2.6,1,1
+Atalanta,Spezia,2.2,0.7,5,2
+Lazio,Juventus,0.2,2.4,0,2
+Fiorentina,Milan,1.2,2.0,4,3
+Sassuolo,Cagliari,3.1,1.4,2,2
+Bologna,Venezia,1.3,0.7,0,1
+Salernitana,Sampdoria,0.9,0.9,0,2
+Inter,Napoli,1.8,0.9,3,2
+Genoa,Roma,0.1,2.3,0,2
+Hellas Verona,Empoli,1.3,1.7,2,1
+Torino,Udinese,1.7,1.2,2,1
+Cagliari,Salernitana,1.8,0.3,1,1
+Sampdoria,Hellas Verona,0.8,0.8,3,1
+Empoli,Fiorentina,1.8,2.0,2,1
+Juventus,Atalanta,0.8,0.5,0,1
+Venezia,Inter,0.2,2.5,0,2
+Udinese,Genoa,1.0,0.6,0,0
+Milan,Sassuolo,0.8,1.0,1,3
+Spezia,Bologna,0.7,2.6,0,1
+Roma,Torino,1.0,0.9,1,0
+Napoli,Lazio,1.0,0.3,4,0
+Atalanta,Venezia,2.5,0.6,4,0
+Fiorentina,Sampdoria,2.9,0.6,3,1
+Hellas Verona,Cagliari,1.3,0.6,0,0
+Salernitana,Juventus,0.3,2.1,0,2
+Inter,Spezia,2.9,0.3,2,0
+Bologna,Roma,0.3,0.9,1,0
+Genoa,Milan,0.5,1.2,0,3
+Sassuolo,Napoli,0.3,0.9,2,2
+Torino,Empoli,0.7,1.0,2,2
+Lazio,Udinese,1.5,1.5,4,4
+Milan,Salernitana,2.1,0.2,2,0
+Roma,Inter,0.7,1.3,0,3
+Napoli,Atalanta,1.1,1.6,2,3
+Bologna,Fiorentina,0.7,1.1,2,3
+Venezia,Hellas Verona,1.5,2.0,3,4
+Spezia,Sassuolo,2.5,1.5,2,2
+Sampdoria,Lazio,1.3,0.9,1,3
+Juventus,Genoa,2.7,0.0,2,0
+Empoli,Udinese,2.4,1.8,3,1
+Cagliari,Torino,1.2,1.9,1,1
+Genoa,Sampdoria,1.0,1.7,1,3
+Fiorentina,Salernitana,2.2,0.8,4,0
+Venezia,Juventus,0.4,1.9,1,1
+Udinese,Milan,2.4,0.9,1,1
+Torino,Bologna,1.8,1.0,2,1
+Hellas Verona,Atalanta,1.3,0.9,1,2
+Sassuolo,Lazio,1.0,0.4,2,1
+Napoli,Empoli,1.8,0.7,0,1
+Inter,Cagliari,3.3,0.3,4,0
+Roma,Spezia,2.2,0.6,2,0
+Lazio,Genoa,1.5,0.2,3,1
+Salernitana,Inter,0.7,3.0,0,5
+Atalanta,Roma,1.2,1.7,1,4
+Bologna,Juventus,0.5,0.9,0,2
+Cagliari,Udinese,0.2,0.6,0,4
+Fiorentina,Sassuolo,3.5,1.1,2,2
+Spezia,Empoli,0.9,1.5,1,1
+Sampdoria,Venezia,1.5,1.0,1,1
+Torino,Hellas Verona,0.7,0.3,1,0
+Milan,Napoli,0.4,0.8,0,1
+Genoa,Atalanta,0.0,1.1,0,0
+Juventus,Cagliari,1.2,1.1,2,0
+Venezia,Lazio,0.8,1.4,1,3
+Sassuolo,Bologna,0.6,1.8,0,3
+Roma,Sampdoria,1.3,1.4,1,1
+Inter,Torino,1.2,0.5,1,0
+Hellas Verona,Fiorentina,0.5,0.9,1,1
+Empoli,Milan,1.6,1.2,2,4
+Napoli,Spezia,1.9,0.6,0,1
+Sampdoria,Cagliari,0.4,2.3,1,2
+Lazio,Empoli,2.8,1.9,3,3
+Spezia,Hellas Verona,1.4,1.4,1,2
+Sassuolo,Genoa,2.0,0.3,1,1
+Milan,Roma,2.9,0.6,3,1
+Juventus,Napoli,1.5,0.9,1,1
+Venezia,Milan,0.5,2.9,0,3
+Empoli,Sassuolo,1.2,4.2,1,5
+Napoli,Sampdoria,1.2,0.4,1,0
+Udinese,Atalanta,1.0,3.2,2,6
+Genoa,Spezia,1.0,1.5,0,1
+Roma,Juventus,2.1,1.0,3,4
+Hellas Verona,Salernitana,1.2,1.1,1,2
+Inter,Lazio,2.0,1.6,2,1
+Torino,Fiorentina,1.9,0.5,4,0
+Cagliari,Bologna,1.8,0.6,2,1
+Sampdoria,Torino,1.3,1.3,1,2
+Salernitana,Lazio,0.3,1.9,0,3
+Juventus,Udinese,1.2,0.6,2,0
+Sassuolo,Hellas Verona,0.9,3.1,2,4
+Venezia,Empoli,1.3,1.6,1,1
+Roma,Cagliari,1.8,0.4,1,0
+Atalanta,Inter,1.6,1.8,0,0
+Milan,Spezia,2.2,1.5,1,2
+Bologna,Napoli,0.9,2.3,0,2
+Fiorentina,Genoa,3.4,0.1,6,0
+Hellas Verona,Bologna,1.8,0.6,2,1
+Genoa,Udinese,1.0,0.1,0,0
+Inter,Venezia,2.9,0.2,2,1
+Lazio,Atalanta,0.4,0.4,0,0
+Cagliari,Fiorentina,1.3,2.3,1,1
+Torino,Sassuolo,2.7,0.6,1,1
+Napoli,Salernitana,4.3,0.2,4,1
+Spezia,Sampdoria,0.4,0.3,1,0
+Empoli,Roma,0.9,2.5,2,4
+Milan,Juventus,0.6,0.4,0,0
+Roma,Genoa,1.5,0.6,0,0
+Inter,Milan,1.0,1.4,1,2
+Fiorentina,Lazio,0.7,2.5,0,3
+Atalanta,Cagliari,0.8,1.0,1,2
+Venezia,Napoli,0.4,1.5,0,2
+Bologna,Empoli,0.6,1.7,0,0
+Sampdoria,Sassuolo,2.1,1.3,4,0
+Udinese,Torino,1.2,0.4,2,0
+Juventus,Hellas Verona,1.6,0.6,2,0
+Salernitana,Spezia,0.4,1.9,2,2
+Lazio,Bologna,1.9,0.7,3,0
+Napoli,Inter,1.5,0.6,1,1
+Torino,Venezia,0.9,0.3,1,2
+Milan,Sampdoria,1.2,0.2,1,0
+Empoli,Cagliari,0.9,1.1,1,1
+Hellas Verona,Udinese,0.7,1.1,4,0
+Genoa,Salernitana,1.9,0.8,1,1
+Sassuolo,Roma,1.2,2.3,2,2
+Atalanta,Juventus,2.4,0.7,1,1
+Spezia,Fiorentina,0.7,2.1,1,2
+Juventus,Torino,0.6,0.7,1,1
+Sampdoria,Empoli,0.6,0.6,2,0
+Roma,Hellas Verona,0.4,0.5,2,2
+Salernitana,Milan,1.0,1.3,2,2
+Fiorentina,Atalanta,0.8,0.3,1,0
+Venezia,Genoa,1.1,1.7,1,1
+Inter,Sassuolo,2.9,1.6,0,2
+Udinese,Lazio,1.9,1.4,1,1
+Cagliari,Napoli,1.7,1.3,1,1
+Bologna,Spezia,2.0,0.3,2,1
+Milan,Udinese,1.0,1.3,1,1
+Genoa,Inter,0.8,1.4,0,0
+Salernitana,Bologna,1.1,0.5,1,1
+Empoli,Juventus,1.2,2.2,2,3
+Sassuolo,Fiorentina,1.5,2.5,2,1
+Torino,Cagliari,1.0,1.2,1,2
+Hellas Verona,Venezia,2.5,0.9,3,1
+Spezia,Roma,0.4,3.8,0,1
+Lazio,Napoli,1.2,1.0,1,2
+Atalanta,Sampdoria,2.1,0.4,4,0
+Inter,Salernitana,3.9,0.7,5,0
+Udinese,Sampdoria,1.8,1.4,2,1
+Roma,Atalanta,1.6,0.6,1,0
+Cagliari,Lazio,0.6,2.7,0,3
+Genoa,Empoli,1.1,0.3,0,0
+Fiorentina,Hellas Verona,1.4,1.0,1,1
+Bologna,Torino,0.3,1.0,0,0
+Venezia,Sassuolo,2.8,3.5,1,4
+Juventus,Spezia,1.3,0.7,1,0
+Napoli,Milan,0.4,1.2,0,1
+Spezia,Cagliari,2.3,0.4,2,0
+Salernitana,Sassuolo,1.3,1.5,2,2
+Sampdoria,Juventus,1.5,1.3,1,3
+Milan,Empoli,0.7,0.3,1,0
+Fiorentina,Bologna,1.8,1.1,1,0
+Hellas Verona,Napoli,0.6,1.4,1,2
+Udinese,Roma,0.6,1.2,1,1
+Atalanta,Genoa,1.1,1.0,0,0
+Torino,Inter,1.6,2.5,1,1
+Lazio,Venezia,1.4,0.5,1,0
+Sassuolo,Spezia,1.9,0.3,4,1
+Genoa,Torino,0.4,0.9,1,0
+Napoli,Udinese,1.0,0.6,2,1
+Inter,Fiorentina,1.0,1.3,1,1
+Cagliari,Milan,1.4,2.0,0,1
+Venezia,Sampdoria,1.3,1.4,0,2
+Juventus,Salernitana,1.7,0.6,2,0
+Empoli,Hellas Verona,0.8,1.3,1,1
+Roma,Lazio,2.7,0.5,3,0
+Bologna,Atalanta,1.5,1.4,0,1
+Spezia,Venezia,1.1,0.7,1,0
+Lazio,Sassuolo,2.1,1.9,2,1
+Salernitana,Torino,1.1,1.6,0,1
+Fiorentina,Empoli,1.7,0.1,1,0
+Atalanta,Napoli,1.4,1.5,1,3
+Udinese,Cagliari,4.5,0.4,5,1
+Sampdoria,Roma,0.5,1.0,0,1
+Juventus,Inter,1.8,1.0,0,1
+Hellas Verona,Genoa,0.8,0.4,1,0
+Milan,Bologna,2.0,0.8,0,0
+Empoli,Spezia,1.1,0.8,0,0
+Inter,Hellas Verona,2.4,0.9,2,0
+Cagliari,Juventus,0.2,1.1,1,2
+Genoa,Lazio,0.7,1.5,1,4
+Sassuolo,Atalanta,1.3,1.6,2,1
+Napoli,Fiorentina,0.9,0.8,2,3
+Venezia,Udinese,1.2,2.1,1,2
+Roma,Salernitana,2.0,0.4,2,1
+Torino,Milan,0.7,0.6,0,0
+Bologna,Sampdoria,2.5,0.8,2,0
+Spezia,Inter,0.5,2.4,1,3
+Milan,Genoa,1.4,0.3,2,0
+Cagliari,Sassuolo,2.0,0.4,1,0
+Udinese,Empoli,1.1,2.2,4,1
+Sampdoria,Salernitana,0.6,0.4,1,2
+Fiorentina,Venezia,3.0,0.1,1,0
+Juventus,Bologna,2.4,1.1,1,1
+Lazio,Torino,0.6,1.1,1,1
+Napoli,Roma,1.2,0.9,1,1
+Atalanta,Hellas Verona,1.4,3.4,1,2
+Udinese,Salernitana,0.4,1.2,0,1
+Torino,Spezia,2.4,1.0,2,1
+Venezia,Atalanta,0.9,3.7,1,3
+Inter,Roma,1.6,0.8,3,1
+Hellas Verona,Sampdoria,1.6,1.0,1,1
+Salernitana,Fiorentina,0.7,1.0,2,1
+Empoli,Napoli,1.9,1.2,3,2
+Bologna,Udinese,1.2,1.7,2,2
+Genoa,Cagliari,0.8,0.8,1,0
+Lazio,Milan,0.5,2.1,1,2
+Sassuolo,Juventus,1.4,0.7,1,2
+Fiorentina,Udinese,2.7,2.8,0,4
+Atalanta,Torino,2.5,2.2,4,4
+Bologna,Inter,1.2,2.1,2,1
+Napoli,Sassuolo,2.2,1.0,6,1
+Cagliari,Hellas Verona,0.8,1.1,1,2
+Sampdoria,Genoa,1.4,1.4,1,0
+Spezia,Lazio,1.3,2.9,3,4
+Juventus,Venezia,1.6,0.6,2,1
+Milan,Fiorentina,1.2,0.7,1,0
+Empoli,Torino,0.8,2.5,1,3
+Udinese,Inter,0.9,1.9,1,2
+Roma,Bologna,0.8,1.3,0,0
+Atalanta,Salernitana,1.9,1.2,1,1
+Salernitana,Venezia,2.1,1.1,2,1
+Inter,Empoli,3.5,0.8,4,2
+Genoa,Juventus,3.2,1.5,2,1
+Torino,Napoli,0.7,1.3,0,1
+Sassuolo,Udinese,2.0,2.3,1,1
+Lazio,Sampdoria,1.6,1.0,2,0
+Spezia,Atalanta,0.9,1.8,1,3
+Venezia,Bologna,2.8,2.6,4,3
+Salernitana,Cagliari,1.3,0.5,1,1
+Hellas Verona,Milan,1.0,3.2,1,3
+Fiorentina,Roma,1.5,0.5,2,0
+Empoli,Salernitana,1.5,3.4,1,1
+Udinese,Spezia,1.3,2.4,2,3
+Hellas Verona,Torino,0.8,0.8,0,1
+Roma,Venezia,2.7,0.3,1,1
+Bologna,Sassuolo,1.5,1.6,1,3
+Napoli,Genoa,2.4,1.1,3,0
+Milan,Atalanta,1.3,0.6,2,0
+Cagliari,Inter,0.6,2.8,1,3
+Sampdoria,Fiorentina,1.5,1.5,4,1
+Juventus,Lazio,0.7,1.1,2,2
+Torino,Roma,0.6,2.7,0,3
+Genoa,Bologna,1.1,0.8,0,1
+Atalanta,Empoli,2.9,0.2,0,1
+Lazio,Hellas Verona,3.2,2.1,3,3
+Fiorentina,Juventus,1.6,0.1,2,0
+Spezia,Napoli,2.0,1.5,0,3
+Sassuolo,Milan,0.5,2.8,0,3
+Inter,Sampdoria,3.4,1.0,3,0
+Venezia,Cagliari,1.0,1.9,0,0
+Salernitana,Udinese,1.6,2.5,0,4
